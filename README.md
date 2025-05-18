@@ -1,4 +1,4 @@
-# Project: Advanced Question Answering System for Academic Regulations
+# Project:  Question Answering System for Academic Regulations
 
 ## 1. Project Overview
 
